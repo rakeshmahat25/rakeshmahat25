@@ -36,7 +36,7 @@
 
 📧 [rakeshmahat12327@gmail.com](mailto:rakeshmahat25@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mahat-06181a20b/)  
-🌐 [My Portfolio]([https://portfolio-dy32.onrender.com/](https://rakeshmahat.onrender.com/))  
+🌐 [My Portfolio](https://rakeshmahat.onrender.com/)
 
 ---
 
