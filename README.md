@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakesh Mahat!
 
-<!--
-**rakeshmahat25/rakeshmahat25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python & Django Developer | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer  
+📍 Based in Nepal | 🌐 [Portfolio Website](https://rakeshmahat.onrender.com/) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+- 🔭 Currently working as a Python Developer & AI Engineer
+- 🌱 Learning advanced Generative AI, RAG systems, and LLM Fine-Tuning
+- 👨‍🏫 Trainer at Techaxis
+- 🛠️ Skilled in FastAPI, Django, SQL, React, and MongoDB
+- 🎨 Also love design: Adobe Photoshop, Canva, Social Media Handling
+
+---
+
+## 🧠 Skills
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+## 📬 Let's Connect
+
+📧 [rakeshmahat12327@gmail.com](mailto:rakeshmahat25@gmail.com)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/rakesh-mahat](https://www.linkedin.com/in/rakesh-mahat-06181a20b/)  
+🌐 [My Portfolio]([https://portfolio-dy32.onrender.com/](https://rakeshmahat.onrender.com/))  
+
+---
+
+_“Always exploring. Always building.”_
