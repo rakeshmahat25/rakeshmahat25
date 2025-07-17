@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rakesh Mahat!
 
 🚀 Python & Django Developer | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer  
-📍 Based in Nepal | 🌐 [Portfolio Website](https://rakeshmahat.onrender.com/) 
+📍 Based in Nepal | 
+🌐 [Portfolio Website](https://rakeshmahat.onrender.com/) 
 
 ---
 
@@ -34,7 +35,7 @@
 ## 📬 Let's Connect
 
 📧 [rakeshmahat12327@gmail.com](mailto:rakeshmahat25@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/rakesh-mahat](https://www.linkedin.com/in/rakesh-mahat-06181a20b/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-mahat-06181a20b/)  
 🌐 [My Portfolio]([https://portfolio-dy32.onrender.com/](https://rakeshmahat.onrender.com/))  
 
 ---
