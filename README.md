@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakesh Mahat!
+# Rakesh Mahat
 
 🚀 Python & Django Developer | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer  
 📍 Based in Nepal | 
