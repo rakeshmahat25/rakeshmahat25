@@ -48,7 +48,12 @@ I’m a passionate Python Developer and AI Engineer specializing in **FastAPI**,
 **TechAxis**  
 🧠 Python/Django Developer & AI Engineer (Aug 2024 – Present)  
 - Building scalable backend systems and integrating AI features using LLMs  
-- Designing fast REST APIs with FastAPI  
+- Designing fast REST APIs with FastAPI
+
+**TechAxis**  
+🧠 Mentor for AI train-O-ship program  (May 2025 – Present)  
+- From core python programming to Frameworks level
+- AI , Data science, GenAI, Agent , etc
 
 **Model Institute of Technology**  
 👨‍🏫 Lecturer – Python Programming (Apr 2025 – Present)  
